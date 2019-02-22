@@ -1,0 +1,71 @@
+var friendsData = [
+    {
+        name:"John",
+        photo:"https://i.pinimg.com/originals/28/fe/ef/28feefd46b7d13b78b37ff21e68a093d.jpg",
+        scores:[
+            5,
+            1,
+            4,
+            4,
+            5,
+            1,
+            2,
+            5,
+            4,
+            1
+          ]
+      },
+      {
+        name:"Sam",
+        photo:"https://i.pinimg.com/originals/12/3f/c0/123fc038b020205bb6c933b416c02b7a.jpg",
+        scores:[
+            4,
+            4,
+            3,
+            5,
+            2,
+            5,
+            3,
+            4,
+            4,
+            1
+          ]
+      },
+      {
+        name:"Linda",
+        photo:"https://i.pinimg.com/originals/39/89/f9/3989f9e68aa505d646f0b48a205e9661.jpg",
+        scores:[
+            5,
+            3,
+            5,
+            4,
+            5,
+            2,
+            3,
+            5,
+            1,
+            5
+          ]
+      },
+      {
+        name:"Jenifer",
+        photo:"https://i.pinimg.com/originals/bc/34/43/bc3443fc7bf928e7a4be47abc285d1eb.jpg",
+        scores:[
+            5,
+            5,
+            4,
+            5,
+            1,
+            4,
+            2,
+            3,
+            4,
+            3
+          ]
+      }
+
+];
+
+
+
+module.exports = friendsData;
