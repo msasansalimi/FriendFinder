@@ -9,4 +9,5 @@
 
 #### As well in this assignment I experienced how to use Modals to populate the retrived data from backend
 #### for the user at front.
+#### I have deployed the app to Heroku, feel free to visit and try https://guarded-ravine-10226.herokuapp.com/ . 
 
